@@ -9,4 +9,3 @@ C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\bin\Debug\netcoreapp2.1\
 C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\obj\Debug\netcoreapp2.1\TflRoadStatus.dll
 C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\obj\Debug\netcoreapp2.1\TflRoadStatus.pdb
 C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\bin\Debug\netcoreapp2.1\appsettings.json
-C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\obj\Debug\netcoreapp2.1\TflRoadStatus.csprojAssemblyReference.cache
