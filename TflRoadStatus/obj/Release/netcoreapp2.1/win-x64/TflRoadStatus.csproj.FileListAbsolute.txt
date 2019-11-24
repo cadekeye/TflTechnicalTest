@@ -1,0 +1,15 @@
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\bin\Release\netcoreapp2.1\win-x64\appsettings.json
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\bin\Release\netcoreapp2.1\win-x64\TflRoadStatus.exe
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\bin\Release\netcoreapp2.1\win-x64\TflRoadStatus.deps.json
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\bin\Release\netcoreapp2.1\win-x64\TflRoadStatus.runtimeconfig.json
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\bin\Release\netcoreapp2.1\win-x64\TflRoadStatus.runtimeconfig.dev.json
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\bin\Release\netcoreapp2.1\win-x64\TflRoadStatus.dll
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\bin\Release\netcoreapp2.1\win-x64\TflRoadStatus.pdb
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\obj\Release\netcoreapp2.1\win-x64\TflRoadStatus.csprojAssemblyReference.cache
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\obj\Release\netcoreapp2.1\win-x64\TflRoadStatus.csproj.CoreCompileInputs.cache
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\obj\Release\netcoreapp2.1\win-x64\TflRoadStatus.AssemblyInfoInputs.cache
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\obj\Release\netcoreapp2.1\win-x64\TflRoadStatus.AssemblyInfo.cs
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\obj\Release\netcoreapp2.1\win-x64\TflRoadStatus.dll
+C:\Users\calmo\source\repos\TflRoadStatus\TflRoadStatus\obj\Release\netcoreapp2.1\win-x64\TflRoadStatus.pdb
